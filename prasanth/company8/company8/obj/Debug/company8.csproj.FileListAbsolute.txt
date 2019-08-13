@@ -1,0 +1,7 @@
+C:\Users\prasanth.gk\source\repos\company8\company8\obj\Debug\company8.csprojAssemblyReference.cache
+C:\Users\prasanth.gk\source\repos\company8\company8\obj\Debug\company8.csproj.CoreCompileInputs.cache
+C:\Users\prasanth.gk\source\repos\company8\company8\bin\Debug\company8.exe.config
+C:\Users\prasanth.gk\source\repos\company8\company8\bin\Debug\company8.exe
+C:\Users\prasanth.gk\source\repos\company8\company8\bin\Debug\company8.pdb
+C:\Users\prasanth.gk\source\repos\company8\company8\obj\Debug\company8.exe
+C:\Users\prasanth.gk\source\repos\company8\company8\obj\Debug\company8.pdb
